@@ -40,9 +40,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img width="2772" height="1516" title = 'Video Walkthrough'alt="web102project2_2nd" src="https://github.com/user-attachments/assets/6e541582-5448-4f55-911e-9dc357f388f3" />
+<img width="2772" height="1516" title = "Video Walkthrough" alt="Video Walkthrough" src="https://github.com/user-attachments/assets/6e541582-5448-4f55-911e-9dc357f388f3" />
 
-<img src='"(https://github.com/user-attachments/assets/6e541582-5448-4f55-911e-9dc357f388f3")"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGif  
